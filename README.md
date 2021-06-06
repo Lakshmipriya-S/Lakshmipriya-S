@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi I am LakshmiPriya👋
 
+I am a Data scientist student from India. A Highly analytical individual with strong communication and programming skills. Have a good knowledge on data cleaning, data visualisations, machine learning, deep learning techniques with python and big data with Hadoop and Hive. Also coming with 5 years of research experience.
 <!--
 **Lakshmipriya-S/Lakshmipriya-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
