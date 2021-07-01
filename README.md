@@ -13,12 +13,11 @@ I am a Data scientist student from India. A Highly analytical individual with st
 [![Kaggle Badge](https://img.shields.io/badge/-lakshmipriya006-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lakshmipriya006)
 
 
-- 🔭 I’m currently working on managing my time, and be productive. 
-- 🌱 I’m currently learning Data Science, Artificial Intelligence . 
-- 🤔 I’m looking for help with in Website Designer.
-- 💬 Ask me about Web Development, Machine Learning . 
+- 🔭 I’m currently working on data science projects relating to different domains. 
+- 🌱 I’m currently learning Data Science and Artificial Intelligence at ExcelR, Bangalore. 
+- 💬 Ask me about Machine Learning, Deep Learning. 
 - 📫 How to reach me: s.lakshmipriya63@gmail.com
-- ⚡ Fun fact: I play games and watching movies. 
+- ⚡ Fun fact: I love Playing,singing,drawing, interior decor, K-Pop and am learning korean. 
 
 
 ## 🔧 Technologies & Tools :
