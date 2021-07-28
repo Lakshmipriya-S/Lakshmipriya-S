@@ -7,9 +7,7 @@ I am a Data scientist student from India. A Highly analytical individual with st
 ## Connect with me :
 
 [![Linkedin Badge](https://img.shields.io/badge/-lakshmipriya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmipriya-s/)
-
 [![Mail Badge](https://img.shields.io/badge/-lakshmipriya63-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:s.lakshmipriya63@gmail.com)
-
 [![Kaggle Badge](https://img.shields.io/badge/-lakshmipriya006-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lakshmipriya006)
 
 
