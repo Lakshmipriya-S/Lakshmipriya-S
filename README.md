@@ -45,8 +45,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lakshmipriya-S Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakshmipriya-S&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div>
-<img  alt="Lakshmipriya-S" src="https://github-readme-stats.vercel.app/api?username=Lakshmipriya-S&show_icons=true"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmipriya-S&currStreakNum=2FD3EB&fire=pink&sideLabels=F00"/>
+<img  alt="Lakshmipriya-S" src="https://github-readme-stats.vercel.app/api?username=Lakshmipriya-S&show_icons=true" width="200"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmipriya-S&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" width="200"/>
 </div>
 
 ##
@@ -55,7 +55,7 @@
     <a href="https://www.linkedin.com/in/lakshmipriya-s/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-        <a href="" target="blank"><img align="center"
+        <a href="mailto:swastik845@gmail.com" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-128/gmail-2981844-2476484.png" alt="linkedin" height="40"
             width="40" /></a>
 </p>
