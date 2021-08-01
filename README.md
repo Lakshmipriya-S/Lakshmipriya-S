@@ -1,4 +1,4 @@
-### Hello World ! 👋
+<h1 align="center">Hello World ! 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lakshmipriya-S&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <img alt="choubari" align="right" src="https://github.com/Lakshmipriya-S/Lakshmipriya-S/blob/main/computer.gif" width="300">
