@@ -1,73 +1,51 @@
-<h1 align='center'> Hi I am LakshmiPriya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">Hi 👋, I'm Lakshmipriya S</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lakshmipriya-S&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+<img alt="choubari" align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="300">
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Lakshmipriya S</b>, a Data Science Student from ExcelR . I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> 
+
+### **Languages and Technologies:**
+<p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-0077AC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colob](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+</p> 
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lakshmipriya-S Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakshmipriya-S&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmipriya-S&currStreakNum=2FD3EB&fire=pink&sideLabels=F00"/>
 
 
-I am a Data scientist student from India. A Highly analytical individual with strong communication and programming skills. Have a good knowledge on data cleaning, data visualisations, machine learning, deep learning techniques with python and big data with Hadoop and Hive. Also coming with 5 years of research experience.
-
-
-## Connect with me :
-
-[![Linkedin Badge](https://img.shields.io/badge/-lakshmipriya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmipriya-s/)
-[![Mail Badge](https://img.shields.io/badge/-lakshmipriya63-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:s.lakshmipriya63@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-lakshmipriya006-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lakshmipriya006)
-
-
-- 🔭 I’m currently working on data science projects relating to different domains. 
-- 🌱 I’m currently learning Data Science and Artificial Intelligence at ExcelR, Bangalore. 
-- 💬 Ask me about Machine Learning, Deep Learning. 
-- 📫 How to reach me: s.lakshmipriya63@gmail.com
-- ⚡ Fun fact: I love Playing,singing,drawing, interior decor, K-Pop and am learning korean. 
-
-
-## 🔧 Technologies & Tools :
-
-#### Languages
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
-
-#### Libraries/Frameworks
-<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="26" src="https://numpy.org/images/logos/numpy.svg"></code>
-<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
-<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
-<code><img height="26" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
-<code><img height="26" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png"></code>
-<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="26" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"/></code>
-
-#### Cloud Platforms
-<code><img height="26" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-
-#### Others
-<code><img height="26" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
-
-<br/>
-
-## Profile Visits 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Lakshmipriya-S)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br>
-
-I love sharing knowledge, together for helping other developers .
-
-## &#x1f4c8; GitHub Stats :
-
-<a href="https://github.com/Lakshmipriya-S/Lakshmipriya-S">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmipriya-S&layout=compact,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<br>
-
- <a href="https://github.com/Lakshmipriya-S/Lakshmipriya-S">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakshmipriya-S&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swastik's GitHub Stats" />
-</a>  
-
-[![Lakshmipriya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Lakshmipriya-S&theme=react-dark&hide_border=true)](https://github.com/Lakshmipriya-S/)
