@@ -45,8 +45,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lakshmipriya-S Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakshmipriya-S&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div>
-<img  alt="Lakshmipriya-S" src="https://github-readme-stats.vercel.app/api?username=Lakshmipriya-S&show_icons=true" width="500"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmipriya-S&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" width="500"/>
+<img  alt="Lakshmipriya-S" src="https://github-readme-stats.vercel.app/api?username=Lakshmipriya-S&show_icons=true" width="400"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmipriya-S&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" width="400"/>
 </div>
 
 ##
