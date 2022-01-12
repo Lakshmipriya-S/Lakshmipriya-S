@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lakshmipriya-S&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <img alt="choubari" align="right" src="https://github.com/Lakshmipriya-S/Lakshmipriya-S/blob/main/computer.gif" width="300">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Lakshmipriya S</b>, a Data Science Student from ExcelR . I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> 
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Lakshmipriya S</b>, an Analyst at Capgemini and a Data Science Student from ExcelR . I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> 
 
 ### **Languages and Technologies:**
 <p>
