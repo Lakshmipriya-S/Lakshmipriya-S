@@ -53,7 +53,7 @@
     <a href="https://www.linkedin.com/in/lakshmipriya-s/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-        <a href="mailto:swastik845@gmail.com" target="blank"><img align="center"
+        <a href="mailto:s.lakshmipriya63@gmail.com" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-128/gmail-2981844-2476484.png" alt="linkedin" height="40"
             width="40" /></a>
 </p>
